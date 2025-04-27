@@ -15,8 +15,10 @@ This project implements a Naive Bayes Classifier to identify which Shakespearean
 2. Run the `classifier.py` script to classify a sentence:
    ```bash
    python classifier.py
+   ```
    Enter a sentence when prompted, and the script will output the play it most likely belongs to.
 3. Run the full_estimates.py script to get probability estimates for each play:
     ```bash
    python full_estimates.py
+   ```
    Enter a sentence when prompted, and the script will output the probabilities for all plays.
